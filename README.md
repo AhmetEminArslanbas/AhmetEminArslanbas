@@ -37,7 +37,7 @@ Donanımla konuşan yazılımlar yazıyorum: uçuş ve kara araçları için kon
 
 ### 🏁 FPV Drone Yarışları · Bireysel Pilot
 
-2023'ten bu yana bireysel FPV pilotu olarak **11 etapta** yarıştım: **TEKNOFEST Drone Şampiyonası**'nda 7, **THSF** (Türkiye Hava Sporları Federasyonu) yarışlarında 3, **MEB Robot Yarışması**'nda 1 etap.
+2023'ten bu yana bireysel FPV pilotu olarak **12 yarışta** yer aldım: **TEKNOFEST Drone Şampiyonası**'nda 7 etap, **THSF** (Türkiye Hava Sporları Federasyonu) yarışlarında 3 etap, **MEB Robot Yarışması**'nda 2 kez (2023 Bursa, 2024 Erzurum).
 
 | Yıl | Yarışma | Etap · Yer | Sonuç |
 |:---:|:---|:---|:---|
@@ -50,6 +50,7 @@ Donanımla konuşan yazılımlar yazıyorum: uçuş ve kara araçları için kon
 | 2024 | TEKNOFEST Drone Şampiyonası | 2. Etap · Mersin | Etap pilotu |
 | 2024 | TEKNOFEST Drone Şampiyonası | 1. Etap · Isparta | **32 pilotluk** etaba seçildi |
 | 2024 | THSF İHA Türkiye Şampiyonası | 1. Etap · Ankara | Etap pilotu |
+| 2023 | 15. Uluslararası MEB Robot Yarışması | FPV Drone · Bursa | Pilot olarak yarıştı |
 | 2023 | [THSF Drone Yarış Ligi](https://www.techdroneleague.com/sonuclar/) | Yedikule Hisarı Zafer Kupası · İstanbul | **57 pilotta 31.** |
 | 2023 | TEKNOFEST Drone Şampiyonası | İstanbul | 🎖️ **Türkiye 16.** |
 

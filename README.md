@@ -13,7 +13,44 @@ Donanımla konuşan yazılımlar yazıyorum: uçuş ve kara araçları için kon
 
 ---
 
-### 🚁 İHA, Robotik ve Kontrol
+## 🏆 Ödüller ve Dereceler
+
+<p>
+<img src="https://img.shields.io/badge/%F0%9F%A5%87_B%C4%B0R%C4%B0NC%C4%B0L%C4%B0K-5-D4AF37?style=for-the-badge" alt="5 birincilik">
+<img src="https://img.shields.io/badge/%F0%9F%A5%88_%C4%B0K%C4%B0NC%C4%B0L%C4%B0K-2-A8A9AD?style=for-the-badge" alt="2 ikincilik">
+<img src="https://img.shields.io/badge/%F0%9F%8F%85_%C3%96ZEL_%C3%96D%C3%9CL-3-CD7F32?style=for-the-badge" alt="3 özel ödül">
+<img src="https://img.shields.io/badge/YARI%C5%9EMA-15%2B-1F6FEB?style=for-the-badge" alt="15+ yarışma">
+</p>
+
+| Derece | Yarışma | Kategori | Rolüm |
+|:---|:---|:---|:---|
+| 🥇 **Türkiye 1.** | [TEKNOFEST Robolig Yarışması](https://www.teknofest.org/tr/yarismalar/teknofest-robolig-yarismasi/) · 2024 | Lise | Yazılımın tamamı, elektroniğin bir kısmı |
+| 🥇 **Türkiye 1.** | [17. Uluslararası MEB Robot Yarışması](https://robot.meb.gov.tr/yukleme/Robot2025/derece2025.pdf) · 2025 | Su Altı Robotu | Robot yazılımı ve elektroniği<br><sub>📂 [rov-control-station](https://github.com/AhmetEminArslanbas/rov-control-station)</sub> |
+| 🥇 **Türkiye 1.** · 🏅 **ASELSAN Özel Ödülü** | [16. Uluslararası MEB Robot Yarışması](https://kocaeli.gsb.gov.tr/HaberDetaylari/1/279514/kocaelinden-genc-mucitler-erzurumda-yarisiyor.aspx) · 2024 | Su Altı Robotu | Robot yazılımı ve elektroniği<br><sub>📂 [rov-control-station](https://github.com/AhmetEminArslanbas/rov-control-station)</sub> |
+| 🏅 **Türkiye 4.** | [TEKNOFEST Uluslararası İHA Yarışması](https://dumlupinargazetesi.com/teknofestte-dpu-ruzgari-13-takimla-finalde-yer-aldi) · 2026 | Serbest Görev | **Takım kaptanı** · DPÜ KUASAR CYGNUS |
+| 🥇 **1.** · 🏅 **Jüri Özel Ödülü** (Trafik) | [İTÜ Robot Olimpiyatları (İTÜRO)](https://yerelhaber.net.tr/kartepe-belediyesi-genc-akademi-ogrencileri-itu-robot-olimpiyatlarinda-birincilik-elde-ederek-buyuk-bir-basariya-imza-attilar/) · 2024 | Arama Kurtarma | Unity arayüzü ve Arduino yazılımı<br><sub>📂 [stair-climbing-robot](https://github.com/AhmetEminArslanbas/stair-climbing-robot)</sub> |
+| 🥈 **2.** · 🏅 **Jüri Özel Ödülü** (Trafik) | İTÜ Robot Olimpiyatları (İTÜRO) · 2025 | Arama Kurtarma | Unity arayüzü ve Arduino yazılımı<br><sub>📂 [stair-climbing-robot](https://github.com/AhmetEminArslanbas/stair-climbing-robot)</sub> |
+| 🎖️ **Türkiye 4.** | 15. Uluslararası MEB Robot Yarışması · 2023 | Su Altı Aracı | Robot yazılımı ve elektroniği<br><sub>📂 [rov-control-station](https://github.com/AhmetEminArslanbas/rov-control-station)</sub> |
+| 🎖️ **Türkiye 11.** · ilk 20 finalist | [TEKNOFEST İnsansız Su Altı Sistemleri](https://kartepeertugrulgazianadolulisesi.meb.k12.tr/icerikler/okulumuz-teknofestte_13959008.html) · 2023 | Lise | Robot yazılımı ve elektroniği<br><sub>📂 [rov-control-station](https://github.com/AhmetEminArslanbas/rov-control-station)</sub> |
+| 🎖️ **Playoff yarı finali** | [FIRST Robotics Competition – Haliç Regional](https://www.thebluealliance.com/team/9221/2023) · 2023 | Charged Up | Robot yazılımı · Team 9221<br><sub>📂 [frc-2023-robot](https://github.com/AhmetEminArslanbas/frc-2023-robot)</sub> |
+| 🥇 **1.** · 🥈 **2.** (Mini Sumo) | [KODELİG Robotik Kodlama Yarışması](https://www.bizimyaka.com/haber/12457942/kodelig22-yarismasi-nefes-kesti) · 2022 | Hedefi Bul | Takım üyesi · Robogazi<br><sub>📂 [arduino-robotics](https://github.com/AhmetEminArslanbas/arduino-robotics)</sub> |
+
+### 🏁 FPV Drone Yarışları · Bireysel Pilot
+
+| Sonuç | Yarışma |
+|:---|:---|
+| **Türkiye 16.** | TEKNOFEST Drone Şampiyonası · 2023 |
+| **Çeyrek final** | 16. Uluslararası MEB Robot Yarışması – FPV Drone · 2024 |
+| **Etap pilotu** | TEKNOFEST Drone Şampiyonası · 2024 Isparta ve Mersin, 2025 KKTC ve Yalova, 2026 Şırnak ve Batman etapları |
+| **Yarışmacı** | [THSF Drone Yarış Ligi](https://www.techdroneleague.com/sonuclar/) · 2023 Yedikule (İstanbul), 2024 Ankara, 2025 İstanbul etapları |
+
+### Diğer Katılımlar
+- **TEKNOFEST Roket Yarışması:** uçuş bilgisayarı telemetrisi ve LoRa yer istasyonu; Marmara Denizi üzerinde birkaç km menzil denemesi ([rocket-ground-station](https://github.com/AhmetEminArslanbas/rocket-ground-station))
+- **ODTÜ Robot Günleri (ODTÜRO) · 2024:** çöp toplayan robot kategorisi
+
+---
+
+## 🚁 İHA, Robotik ve Kontrol
 
 <table>
 <tr>
@@ -42,20 +79,20 @@ FIRST Robotics Competition 2023 (Charged Up) robot kodu: tank şasi, kol, tutucu
 </tr>
 </table>
 
-**Diğer:**
+**Diğer projeler:**
 - [rocket-ground-station](https://github.com/AhmetEminArslanbas/rocket-ground-station): LoRa roket telemetrisi ve hakem yer istasyonu aktarımı (TEKNOFEST).
 - [stair-climbing-robot](https://github.com/AhmetEminArslanbas/stair-climbing-robot): Dynamixel'li merdiven tırmanan arama-kurtarma robotu ve YOLO ile tabela algılama.
 - [ffb-steering-wheel](https://github.com/AhmetEminArslanbas/ffb-steering-wheel): USB HID force-feedback direksiyon seti.
 - [arduino-robotics](https://github.com/AhmetEminArslanbas/arduino-robotics): çizgi izleyen, mini sumo, drone uçuş kontrolcüsü, MAVLink, İKA ve diğerleri.
 
-### 🔌 Donanım Tasarımı
+## 🔌 Donanım Tasarımı
 
 <a href="https://github.com/AhmetEminArslanbas/pcb-designs"><img src="https://github.com/AhmetEminArslanbas/pcb-designs/raw/main/docs/boards/rp2350-dev-board.jpg" width="49%" alt="RP2350 kartı"></a>
 <a href="https://github.com/AhmetEminArslanbas/pcb-designs"><img src="https://github.com/AhmetEminArslanbas/pcb-designs/raw/main/docs/boards/esp32-dev-board.jpg" width="49%" alt="ESP32 kartı"></a>
 
 **[pcb-designs](https://github.com/AhmetEminArslanbas/pcb-designs)**: Altium ile tasarladığım RP2350, RP2040, ESP32 ve ATmega328 geliştirme kartları, IMU/barometre modülleri, motor sürücü ve DC-DC kartları, ayrıca 3B baskı parçaları.
 
-### 🎮 Oyun Geliştirme (Unity)
+## 🎮 Oyun Geliştirme (Unity)
 
 <table>
 <tr>
@@ -75,52 +112,18 @@ Silah, zombiler, Rust tarzı inşa, şifreli kapı ve araçlar.
 </tr>
 </table>
 
-### 🛠️ Yazılım ve Otomasyon
+## 🛠️ Yazılım ve Otomasyon
 - [kahoot-ai-player](https://github.com/AhmetEminArslanbas/kahoot-ai-player): Playwright ve dil modeliyle tek oyunculu Kahoot referans botu, çevrimdışı demo.
 - [mail-agent](https://github.com/AhmetEminArslanbas/mail-agent): e-postayla yönetilen kodlama ajanı servisi. DKIM/DMARC doğrulama, SQLite kuyruk, kontrol paneli.
 
 ---
 
-### 🏆 Ödüller ve Dereceler
+## 🧰 Teknolojiler
 
-<p>
-<img src="https://img.shields.io/badge/%F0%9F%A5%87_Birincilik-5-D4AF37?style=for-the-badge" alt="5 birincilik">
-<img src="https://img.shields.io/badge/%F0%9F%A5%88_%C4%B0kincilik-2-A8A9AD?style=for-the-badge" alt="2 ikincilik">
-<img src="https://img.shields.io/badge/%F0%9F%8F%85_%C3%96zel_%C3%96d%C3%BCl-3-CD7F32?style=for-the-badge" alt="3 özel ödül">
-<img src="https://img.shields.io/badge/Yar%C4%B1%C5%9Fma-15%2B-1F6FEB?style=for-the-badge" alt="15+ yarışma">
-</p>
-
-| Derece | Yarışma | Kategori | Rolüm | Proje |
-|:---|:---|:---|:---|:---|
-| 🥇 **Türkiye 1.** | TEKNOFEST Robolig Yarışması · 2024 | Lise | Yazılımın tamamı, elektroniğin bir kısmı | |
-| 🥇 **Türkiye 1.** | 17. Uluslararası MEB Robot Yarışması · 2025 | Su Altı Robotu | Robot yazılımı ve elektroniği | [rov-control-station](https://github.com/AhmetEminArslanbas/rov-control-station) |
-| 🥇 **Türkiye 1.** · 🏅 **ASELSAN Özel Ödülü** | 16. Uluslararası MEB Robot Yarışması · 2024 | Su Altı Robotu | Robot yazılımı ve elektroniği | [rov-control-station](https://github.com/AhmetEminArslanbas/rov-control-station) |
-| 🏅 **Türkiye 4.** | TEKNOFEST Uluslararası İHA Yarışması · 2026 | Serbest Görev | **Takım kaptanı** · DPÜ KUASAR CYGNUS | |
-| 🥇 **1.** · 🏅 **Jüri Özel Ödülü** (Trafik) | İTÜ Robot Olimpiyatları (İTÜRO) · 2024 | Arama Kurtarma | Unity arayüzü ve Arduino yazılımı | [stair-climbing-robot](https://github.com/AhmetEminArslanbas/stair-climbing-robot) |
-| 🥈 **2.** · 🏅 **Jüri Özel Ödülü** (Trafik) | İTÜ Robot Olimpiyatları (İTÜRO) · 2025 | Arama Kurtarma | Unity arayüzü ve Arduino yazılımı | [stair-climbing-robot](https://github.com/AhmetEminArslanbas/stair-climbing-robot) |
-| 🎖️ **Türkiye 4.** | 15. Uluslararası MEB Robot Yarışması · 2023 | Su Altı Aracı | Robot yazılımı ve elektroniği | [rov-control-station](https://github.com/AhmetEminArslanbas/rov-control-station) |
-| 🎖️ **Türkiye 11.** · ilk 20 finalist | TEKNOFEST İnsansız Su Altı Sistemleri · 2023 | Lise | Robot yazılımı ve elektroniği | [rov-control-station](https://github.com/AhmetEminArslanbas/rov-control-station) |
-| 🎖️ **Playoff yarı finali** | FIRST Robotics Competition – Haliç Regional · 2023 | Charged Up | Robot yazılımı · Team 9221 | [frc-2023-robot](https://github.com/AhmetEminArslanbas/frc-2023-robot) |
-| 🥇 **1.** · 🥈 **2.** (Mini Sumo) | KODELİG Robotik Kodlama Yarışması · 2022 | Hedefi Bul | Takım üyesi · Robogazi | [arduino-robotics](https://github.com/AhmetEminArslanbas/arduino-robotics) |
-
-#### 🚁 FPV Drone Yarışları · Bireysel Pilot
-
-| Sonuç | Yarışma |
-|:---|:---|
-| **Türkiye 16.** | TEKNOFEST Drone Şampiyonası · 2023 |
-| **Çeyrek final** | 16. Uluslararası MEB Robot Yarışması – FPV Drone · 2024 |
-| **Etap pilotu** | TEKNOFEST Drone Şampiyonası · 2024 Isparta ve Mersin, 2025 KKTC ve Yalova, 2026 Şırnak ve Batman etapları |
-| **Yarışmacı** | THSF Drone Yarış Ligi · 2023 Yedikule (İstanbul), 2024 Ankara, 2025 İstanbul etapları |
-
-#### Diğer Katılımlar
-- **TEKNOFEST Roket Yarışması:** uçuş bilgisayarı telemetrisi ve LoRa yer istasyonu; Marmara Denizi üzerinde birkaç km menzil denemesi ([rocket-ground-station](https://github.com/AhmetEminArslanbas/rocket-ground-station))
-- **ODTÜ Robot Günleri (ODTÜRO) · 2024:** çöp toplayan robot kategorisi
-
----
-
-### Teknolojiler
-**Diller:** C · C++ · C# · Python · Java
-**Gömülü:** Arduino · ESP32 · AVR · FreeRTOS · I2C/SPI/UART · LoRa · ESP-NOW
-**Robotik:** ArduPilot · MAVLink · PID / Kalman · WPILib · OpenCV · YOLO
-**Oyun:** Unity · Netcode for GameObjects · NavMesh
-**Donanım tasarımı:** Altium Designer (PCB) · 3B baskı
+<table>
+<tr><td><b>Diller</b></td><td><img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" alt="C"> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++"> <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="C#"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"> <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"></td></tr>
+<tr><td><b>Gömülü</b></td><td><img src="https://img.shields.io/badge/Arduino-00878F?style=flat-square&logo=arduino&logoColor=white" alt="Arduino"> <img src="https://img.shields.io/badge/ESP32-E7352C?style=flat-square&logo=espressif&logoColor=white" alt="ESP32"> <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=flat-square&logo=raspberrypi&logoColor=white" alt="Raspberry Pi"> <img src="https://img.shields.io/badge/FreeRTOS-3C873A?style=flat-square" alt="FreeRTOS"> <img src="https://img.shields.io/badge/LoRa-1F6FEB?style=flat-square" alt="LoRa"></td></tr>
+<tr><td><b>Robotik</b></td><td><img src="https://img.shields.io/badge/ArduPilot-1E3A5F?style=flat-square" alt="ArduPilot"> <img src="https://img.shields.io/badge/MAVLink-0B5394?style=flat-square" alt="MAVLink"> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV"> <img src="https://img.shields.io/badge/YOLO-111F68?style=flat-square&logo=yolo&logoColor=white" alt="YOLO"> <img src="https://img.shields.io/badge/WPILib-B22222?style=flat-square" alt="WPILib"></td></tr>
+<tr><td><b>Oyun</b></td><td><img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" alt="Unity"> <img src="https://img.shields.io/badge/Netcode_for_GameObjects-222222?style=flat-square" alt="Netcode for GameObjects"></td></tr>
+<tr><td><b>Donanım</b></td><td><img src="https://img.shields.io/badge/Altium_Designer-A5915F?style=flat-square" alt="Altium Designer"> <img src="https://img.shields.io/badge/KiCad-314CB0?style=flat-square&logo=kicad&logoColor=white" alt="KiCad"> <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"></td></tr>
+</table>

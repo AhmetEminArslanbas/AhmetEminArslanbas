@@ -81,13 +81,40 @@ Silah, zombiler, Rust tarzı inşa, şifreli kapı ve araçlar.
 
 ---
 
-### 🏆 Yarışmalar
+### 🏆 Ödüller ve Dereceler
 
-| Yıl | Yarışma | Takım | Görevim | Proje |
-|---|---|---|---|---|
-| 2023 | FIRST Robotics Competition (Charged Up) | EGAL Robotics | Robot yazılımı: sürüş, kol, tutucu, otonom | [frc-2023-robot](https://github.com/AhmetEminArslanbas/frc-2023-robot) |
-| — | TEKNOFEST Roket Yarışması | EGAL Robotics | Uçuş bilgisayarı telemetrisi, LoRa yer istasyonu ve hakem yer istasyonu aktarımı | [rocket-ground-station](https://github.com/AhmetEminArslanbas/rocket-ground-station) |
-| — | Çizgi izleyen ve mini sumo robot yarışmaları | — | Robot tasarımı ve gömülü yazılım | [arduino-robotics](https://github.com/AhmetEminArslanbas/arduino-robotics) |
+<p>
+<img src="https://img.shields.io/badge/%F0%9F%A5%87_Birincilik-5-D4AF37?style=for-the-badge" alt="5 birincilik">
+<img src="https://img.shields.io/badge/%F0%9F%A5%88_%C4%B0kincilik-2-A8A9AD?style=for-the-badge" alt="2 ikincilik">
+<img src="https://img.shields.io/badge/%F0%9F%8F%85_%C3%96zel_%C3%96d%C3%BCl-3-CD7F32?style=for-the-badge" alt="3 özel ödül">
+<img src="https://img.shields.io/badge/Yar%C4%B1%C5%9Fma-15%2B-1F6FEB?style=for-the-badge" alt="15+ yarışma">
+</p>
+
+| Derece | Yarışma | Kategori | Rolüm | Proje |
+|:---|:---|:---|:---|:---|
+| 🥇 **Türkiye 1.** | TEKNOFEST Robolig Yarışması · 2024 | Lise | Yazılımın tamamı, elektroniğin bir kısmı | |
+| 🥇 **Türkiye 1.** | 17. Uluslararası MEB Robot Yarışması · 2025 | Su Altı Robotu | Robot yazılımı ve elektroniği | [rov-control-station](https://github.com/AhmetEminArslanbas/rov-control-station) |
+| 🥇 **Türkiye 1.** · 🏅 **ASELSAN Özel Ödülü** | 16. Uluslararası MEB Robot Yarışması · 2024 | Su Altı Robotu | Robot yazılımı ve elektroniği | [rov-control-station](https://github.com/AhmetEminArslanbas/rov-control-station) |
+| 🏅 **Türkiye 4.** | TEKNOFEST Uluslararası İHA Yarışması · 2026 | Serbest Görev | **Takım kaptanı** · DPÜ KUASAR CYGNUS | |
+| 🥇 **1.** · 🏅 **Jüri Özel Ödülü** (Trafik) | İTÜ Robot Olimpiyatları (İTÜRO) · 2024 | Arama Kurtarma | Unity arayüzü ve Arduino yazılımı | [stair-climbing-robot](https://github.com/AhmetEminArslanbas/stair-climbing-robot) |
+| 🥈 **2.** · 🏅 **Jüri Özel Ödülü** (Trafik) | İTÜ Robot Olimpiyatları (İTÜRO) · 2025 | Arama Kurtarma | Unity arayüzü ve Arduino yazılımı | [stair-climbing-robot](https://github.com/AhmetEminArslanbas/stair-climbing-robot) |
+| 🎖️ **Türkiye 4.** | 15. Uluslararası MEB Robot Yarışması · 2023 | Su Altı Aracı | Robot yazılımı ve elektroniği | [rov-control-station](https://github.com/AhmetEminArslanbas/rov-control-station) |
+| 🎖️ **Türkiye 11.** · ilk 20 finalist | TEKNOFEST İnsansız Su Altı Sistemleri · 2023 | Lise | Robot yazılımı ve elektroniği | [rov-control-station](https://github.com/AhmetEminArslanbas/rov-control-station) |
+| 🎖️ **Playoff yarı finali** | FIRST Robotics Competition – Haliç Regional · 2023 | Charged Up | Robot yazılımı · Team 9221 | [frc-2023-robot](https://github.com/AhmetEminArslanbas/frc-2023-robot) |
+| 🥇 **1.** · 🥈 **2.** (Mini Sumo) | KODELİG Robotik Kodlama Yarışması · 2022 | Hedefi Bul | Takım üyesi · Robogazi | [arduino-robotics](https://github.com/AhmetEminArslanbas/arduino-robotics) |
+
+#### 🚁 FPV Drone Yarışları · Bireysel Pilot
+
+| Sonuç | Yarışma |
+|:---|:---|
+| **Türkiye 16.** | TEKNOFEST Drone Şampiyonası · 2023 |
+| **Çeyrek final** | 16. Uluslararası MEB Robot Yarışması – FPV Drone · 2024 |
+| **Etap pilotu** | TEKNOFEST Drone Şampiyonası · 2024 Isparta ve Mersin, 2025 KKTC ve Yalova, 2026 Şırnak ve Batman etapları |
+| **Yarışmacı** | THSF Drone Yarış Ligi · 2023 Yedikule (İstanbul), 2024 Ankara, 2025 İstanbul etapları |
+
+#### Diğer Katılımlar
+- **TEKNOFEST Roket Yarışması:** uçuş bilgisayarı telemetrisi ve LoRa yer istasyonu; Marmara Denizi üzerinde birkaç km menzil denemesi ([rocket-ground-station](https://github.com/AhmetEminArslanbas/rocket-ground-station))
+- **ODTÜ Robot Günleri (ODTÜRO) · 2024:** çöp toplayan robot kategorisi
 
 ---
 

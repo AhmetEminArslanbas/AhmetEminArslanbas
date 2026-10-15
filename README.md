@@ -37,7 +37,7 @@ Donanımla konuşan yazılımlar yazıyorum: uçuş ve kara araçları için kon
 
 ### 🏁 FPV Drone Yarışları · Bireysel Pilot
 
-2023'ten bu yana TEKNOFEST Drone Şampiyonası, THSF ve MEB yarışlarında **11 etapta** bireysel FPV pilotu olarak yarıştım.
+2023'ten bu yana bireysel FPV pilotu olarak **11 etapta** yarıştım: **TEKNOFEST Drone Şampiyonası**'nda 7, **THSF** (Türkiye Hava Sporları Federasyonu) yarışlarında 3, **MEB Robot Yarışması**'nda 1 etap.
 
 | Yıl | Yarışma | Etap · Yer | Sonuç |
 |:---:|:---|:---|:---|

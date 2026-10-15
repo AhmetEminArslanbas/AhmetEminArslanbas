@@ -35,7 +35,8 @@ Donanımla konuşan yazılımlar yazıyorum: uçuş ve kara araçları için kon
 | 🎖️ **Türkiye 4.** | 15. Uluslararası MEB Robot Yarışması · 2023 | Su Altı Aracı | Robot yazılımı ve elektroniği<br><sub>📂 [rov-control-station](https://github.com/AhmetEminArslanbas/rov-control-station)</sub> |
 | 🎖️ **Türkiye 11.** · ilk 20 finalist | [TEKNOFEST İnsansız Su Altı Sistemleri](https://kartepeertugrulgazianadolulisesi.meb.k12.tr/icerikler/okulumuz-teknofestte_13959008.html) · 2023 | Lise | Robot yazılımı ve elektroniği<br><sub>📂 [rov-control-station](https://github.com/AhmetEminArslanbas/rov-control-station)</sub> |
 | 🎖️ **Playoff yarı finali** | [FIRST Robotics Competition – Haliç Regional](https://www.thebluealliance.com/team/9221/2023) · 2023 | Charged Up | Robot yazılımı · Team 9221<br><sub>📂 [frc-2023-robot](https://github.com/AhmetEminArslanbas/frc-2023-robot)</sub> |
-| 🥇 **1.** · 🥈 **2.** (Mini Sumo) | [KODELİG Robotik Kodlama Yarışması](https://www.bizimyaka.com/haber/12457942/kodelig22-yarismasi-nefes-kesti) · 2022 | Hedefi Bul | Takım üyesi · Robogazi<br><sub>📂 [arduino-robotics](https://github.com/AhmetEminArslanbas/arduino-robotics)</sub> |
+| 🥇 **1.** | [KODELİG Robotik Kodlama Yarışması](https://www.bizimyaka.com/haber/12457942/kodelig22-yarismasi-nefes-kesti) · 2022 | Hedefi Bul | Takım üyesi · Robogazi<br><sub>📂 [arduino-robotics](https://github.com/AhmetEminArslanbas/arduino-robotics)</sub> |
+| 🥈 **2.** | KODELİG Robotik Kodlama Yarışması · 2022 | Mini Sumo | Takım üyesi · Robogazi<br><sub>📂 [arduino-robotics](https://github.com/AhmetEminArslanbas/arduino-robotics)</sub> |
 
 ### 🏁 FPV Drone Yarışları · Bireysel Pilot
 

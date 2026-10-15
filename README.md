@@ -69,9 +69,9 @@ Donanımla konuşan yazılımlar yazıyorum: uçuş ve kara araçları için kon
 Hareket eden ve engellerden kaçan bir İKA'nın üzerine kamerayla iniş. pymavlink/ArduPilot, PID + Kalman + ileri besleme, SITL/Gazebo ve kapalı döngü simülasyon.
 </td>
 <td width="50%" valign="top">
-<a href="https://github.com/AhmetEminArslanbas/esp32-self-balancing-robot"><img src="https://github.com/AhmetEminArslanbas/esp32-self-balancing-robot/raw/main/docs/images/push_recovery.gif" alt="Denge robotu simülasyonu"></a>
+<a href="https://github.com/AhmetEminArslanbas/esp32-self-balancing-robot"><img src="https://github.com/AhmetEminArslanbas/esp32-self-balancing-robot/raw/main/docs/images/push_recovery.gif" alt="İki tekerlekli denge aracı simülasyonu"></a>
 <b><a href="https://github.com/AhmetEminArslanbas/esp32-self-balancing-robot">esp32-self-balancing-robot</a></b> <sub>· 2026</sub><br>
-ESP32-C3 üzerinde 500 Hz FreeRTOS kaskad PID, enkodersiz konum tutma, kendi kendine kalkma, telefondan ayar arayüzü ve fizik simülasyonu.
+İki tekerlekli aracı hem dengede hem yerinde tutan, kumandayla sürülen ESP32-C3 firmware'i: 500 Hz FreeRTOS kaskad PID, enkodersiz konum/yön tutma, kendi kendine kalkma, telefondan ayar arayüzü.
 </td>
 </tr>
 <tr>
@@ -112,7 +112,7 @@ FIRST Robotics Competition 2023 (Charged Up) robot kodu: tank şasi, kol, tutucu
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/AhmetEminArslanbas/president-guard"><img src="https://github.com/AhmetEminArslanbas/president-guard/raw/main/docs/images/menu.png" alt="President Guard"></a>
-<b><a href="https://github.com/AhmetEminArslanbas/president-guard">President Guard</a></b> <sub>· 2020</sub><br>
+<b><a href="https://github.com/AhmetEminArslanbas/president-guard">President Guard</a></b> <sub>· 2026</sub><br>
 Başkanın konvoyunu koruduğun 3 bölümlük raylı nişancı oyunu.
 <br><br>
 <b><a href="https://github.com/AhmetEminArslanbas/outpost-fps-sandbox">Outpost: FPS Survival Sandbox</a></b> <sub>· 2023</sub><br>

@@ -7,6 +7,7 @@
 Donanımla konuşan yazılımlar yazıyorum: uçuş ve kara araçları için kontrol kodu, mikrodenetleyici firmware'i, yer istasyonları ve oyunlar. Projelerimi mümkün olduğunca simülasyonla doğrulayıp gerçek donanıma taşıyorum.
 
 [![E-posta](https://img.shields.io/badge/E--posta-ahmeteminarslanbas%40gmail.com-EA4335?logo=gmail&logoColor=white)](mailto:ahmeteminarslanbas@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmet%20Emin%20Arslanba%C5%9F-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmet-emin-arslanba%C5%9F-342441272/)
 
 </div>
 
